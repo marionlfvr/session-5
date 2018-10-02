@@ -2,5 +2,16 @@ body {
   position: relative;
 }
 
+.blue-saxophone {
+	color: blue;
+	text-transform: uppercase;
+}
+
+#incre-dible {
+	color: red;
+	text-transform: capitalize;
+}
+
+
 #fixed-block {
 }
