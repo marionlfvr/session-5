@@ -12,6 +12,28 @@ body {
 	text-transform: capitalize;
 }
 
+#ma-boite {
+	width: 500px;
+	height: 500px;
+	min-width: 200px;
+	max-width: 300px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background-color: #f78a7b;
+	text-transform: uppercase;
+	position: fixed;
+	top: 30px;
+	left: 250px;
+}
+
+#mon-texte {
+	color: red;
+	text-align: center;
+	padding-top: 160px;
+}
+
 
 #fixed-block {
 }
